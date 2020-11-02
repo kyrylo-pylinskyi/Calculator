@@ -1,0 +1,30 @@
+G:\CSharp projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\CSharp projects\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\CSharp projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\CSharp projects\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+G:\CSharp projects\Calculator\Calculator\obj\Debug\App.g.cs
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+G:\CSharp projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\CSharp projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\App.g.cs
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\MainWindow.baml
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.g.resources
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\CLEAN\STUDY\MySTUDY\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
