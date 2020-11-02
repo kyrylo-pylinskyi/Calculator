@@ -1,4 +1,4 @@
 # Calculator
  Simple calculator project
 
-![](calculator.gif)
+![](gif/calculator.gif)
